@@ -1,0 +1,2 @@
+;; Generated package description from sweeprolog.el  -*- no-byte-compile: t -*-
+(define-package "sweeprolog" "0.27.5" "Embedded SWI-Prolog" '((emacs "27.1") (compat "29.1.4.2")) :commit "d8ea9790b40d74f444ff147f7b98f2023ef2e61a" :authors '(("Eshel Yaron" . "me@eshelyaron.com")) :maintainer '("Eshel Yaron" . "~eshel/dev@lists.sr.ht") :keywords '("prolog" "languages" "extensions") :url "https://git.sr.ht/~eshel/sweep")

@@ -1,0 +1,5 @@
+require("core.lazy")
+require("core.set")
+require("core.plugins")
+require("core.make")
+require("core.keymap")
